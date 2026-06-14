@@ -1,7 +1,9 @@
 # Cache Report — Redis Caching Exercise
 
 **Nama:** Muhammad Ibadullah
+
 **NIM:** A11.2023.15275
+
 **Mata Kuliah:** Pemrograman Sisi Server
 
 ---
@@ -52,12 +54,19 @@ def get_weather(city):
 Lampirkan screenshot output `test_cache.py` yang menunjukkan:
 
 * Cache MISS pada request pertama
+
 ![Hasil Pengujian Redis Caching](Screenshot/2.png)
+
 * Cache HIT pada request kedua
+
 ![Hasil Pengujian Redis Caching](Screenshot/3.png)
+
 * Perbandingan waktu API dan cache
+
 ![Hasil Pengujian Redis Caching](Screenshot/1.png)
+
 * Ringkasan speedup 473x lebih cepat
+
 ![Hasil Pengujian Redis Caching](Screenshot/1.png)
 
 ---
